@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hanzi Quiz</string>
+    <string name="question">Which hanzi is missing in the phrase above?</string>
+    <string name="wrong0">Wrong Answer!</string>
+    <string name="wrong1">Nop!</string>
+    <string name="wrong2">Obviously not!</string>
+    <string name="wrong3">Try another one!</string>
+    <string name="wrong4">This one? Are you sure?</string>
+    <string name="correct">Correct!</string>
+    <string name="button_next">Next</string>
+</resources>
